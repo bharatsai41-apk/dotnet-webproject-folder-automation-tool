@@ -15,7 +15,6 @@ When you run `dn`, it safely isolates and spins up the following infrastructure 
  ┣ 📂 [YourProjectName].Domain/         (Core domain models & business logic)
  ┣ 📂 [YourProjectName].Hub/            (Real-time signaling or client hub layer)
  ┣ 📜 [YourProjectName].slnx / .sln     (Integrated workspace layout)
- ┗ 📂 .git/                             (Version control initialization)
 ```
 
 ---
